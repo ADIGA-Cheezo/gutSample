@@ -17,6 +17,7 @@
 		B1CCCF382186055D00C6F45B /* gitrainingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CCCF372186055D00C6F45B /* gitrainingUITests.swift */; };
 		B1CCCF4621888FBE00C6F45B /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CCCF4521888FBE00C6F45B /* TableViewCell.swift */; };
 		B1CCCF4C2188991200C6F45B /* 2014_McLaren_P1_Car_HD_Desktop_Wallpaper Wallpaper_1440x900[10wallpaper.com].jpg in Resources */ = {isa = PBXBuildFile; fileRef = B1CCCF4B2188991200C6F45B /* 2014_McLaren_P1_Car_HD_Desktop_Wallpaper Wallpaper_1440x900[10wallpaper.com].jpg */; };
+		B1CCCF4E21889A7B00C6F45B /* Aerial06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B1CCCF4D21889A7A00C6F45B /* Aerial06.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		B1CCCF392186055D00C6F45B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B1CCCF4521888FBE00C6F45B /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		B1CCCF4B2188991200C6F45B /* 2014_McLaren_P1_Car_HD_Desktop_Wallpaper Wallpaper_1440x900[10wallpaper.com].jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2014_McLaren_P1_Car_HD_Desktop_Wallpaper Wallpaper_1440x900[10wallpaper.com].jpg"; sourceTree = "<group>"; };
+		B1CCCF4D21889A7A00C6F45B /* Aerial06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Aerial06.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 		B1CCCF132186055A00C6F45B /* gitraining */ = {
 			isa = PBXGroup;
 			children = (
+				B1CCCF4D21889A7A00C6F45B /* Aerial06.jpg */,
 				B1CCCF4B2188991200C6F45B /* 2014_McLaren_P1_Car_HD_Desktop_Wallpaper Wallpaper_1440x900[10wallpaper.com].jpg */,
 				B1CCCF142186055A00C6F45B /* AppDelegate.swift */,
 				B1CCCF162186055A00C6F45B /* ViewController.swift */,
@@ -241,6 +244,7 @@
 				B1CCCF222186055D00C6F45B /* LaunchScreen.storyboard in Resources */,
 				B1CCCF1F2186055D00C6F45B /* Assets.xcassets in Resources */,
 				B1CCCF4C2188991200C6F45B /* 2014_McLaren_P1_Car_HD_Desktop_Wallpaper Wallpaper_1440x900[10wallpaper.com].jpg in Resources */,
+				B1CCCF4E21889A7B00C6F45B /* Aerial06.jpg in Resources */,
 				B1CCCF1A2186055A00C6F45B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
