@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B155591921903EFA007D679C /* testTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B155591821903EFA007D679C /* testTableViewCell.swift */; };
 		B1CCCF152186055A00C6F45B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CCCF142186055A00C6F45B /* AppDelegate.swift */; };
 		B1CCCF172186055A00C6F45B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CCCF162186055A00C6F45B /* ViewController.swift */; };
 		B1CCCF1A2186055A00C6F45B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1CCCF182186055A00C6F45B /* Main.storyboard */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B155591821903EFA007D679C /* testTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testTableViewCell.swift; sourceTree = "<group>"; };
 		B1CCCF112186055A00C6F45B /* gitraining.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitraining.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1CCCF142186055A00C6F45B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B1CCCF162186055A00C6F45B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -115,6 +117,7 @@
 				B1CCCF232186055D00C6F45B /* Info.plist */,
 				B1CCCF1B2186055B00C6F45B /* gitraining.xcdatamodeld */,
 				B1CCCF4521888FBE00C6F45B /* TableViewCell.swift */,
+				B155591821903EFA007D679C /* testTableViewCell.swift */,
 			);
 			path = gitraining;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 			files = (
 				B1CCCF1D2186055B00C6F45B /* gitraining.xcdatamodeld in Sources */,
 				B1CCCF4621888FBE00C6F45B /* TableViewCell.swift in Sources */,
+				B155591921903EFA007D679C /* testTableViewCell.swift in Sources */,
 				B1CCCF172186055A00C6F45B /* ViewController.swift in Sources */,
 				B1CCCF152186055A00C6F45B /* AppDelegate.swift in Sources */,
 			);
